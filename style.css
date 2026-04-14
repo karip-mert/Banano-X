@@ -1,0 +1,5 @@
+body { background-color: #0d1117; color: #c9d1d9; font-family: sans-serif; display: flex; justify-content: center; padding-top: 50px; }
+.container { text-align: center; width: 80%; max-width: 600px; }
+input { padding: 12px; width: 70%; border-radius: 5px; border: 1px solid #30363d; background: #161b22; color: white; }
+button { padding: 12px 20px; border-radius: 5px; border: none; background: #238636; color: white; cursor: pointer; }
+#cevap { margin-top: 20px; padding: 20px; background: #161b22; border-radius: 5px; min-height: 50px; }
